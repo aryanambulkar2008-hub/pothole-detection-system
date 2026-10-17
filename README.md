@@ -1,4 +1,4 @@
-Pothole Depth Scan
+Pothole Depth Scan:
 Detects potholes in road video with YOLO and grades each one by how deep it sits relative to the surrounding road, rendering a colour-coded overlay video (green = shallow → red = critical).
 
 tiers
